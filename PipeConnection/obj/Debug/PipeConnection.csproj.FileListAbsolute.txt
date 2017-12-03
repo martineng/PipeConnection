@@ -1,0 +1,6 @@
+c:\users\martinc.a\documents\visual studio 2017\Projects\PipeConnection\PipeConnection\bin\Debug\PipeConnection.exe.config
+c:\users\martinc.a\documents\visual studio 2017\Projects\PipeConnection\PipeConnection\bin\Debug\PipeConnection.exe
+c:\users\martinc.a\documents\visual studio 2017\Projects\PipeConnection\PipeConnection\bin\Debug\PipeConnection.pdb
+c:\users\martinc.a\documents\visual studio 2017\Projects\PipeConnection\PipeConnection\obj\Debug\PipeConnection.csprojResolveAssemblyReference.cache
+c:\users\martinc.a\documents\visual studio 2017\Projects\PipeConnection\PipeConnection\obj\Debug\PipeConnection.exe
+c:\users\martinc.a\documents\visual studio 2017\Projects\PipeConnection\PipeConnection\obj\Debug\PipeConnection.pdb
